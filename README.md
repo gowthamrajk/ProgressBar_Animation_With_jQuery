@@ -6,7 +6,7 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 
 🔭 Features :
 
-- ProgressBar loads smoothly when page gets loaded
+- ProgressBar loads smoothly when page gets loaded 📲
 - percentages can be changed dynamically and customized easily
 - **[Indicates Negative Progress also - (based on the given percentage)]**
 # UI SneakPeak
