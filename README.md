@@ -41,3 +41,5 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 <div align="center">
 
 # Show some ❤️ by starring this repository !!!
+
+</div>
