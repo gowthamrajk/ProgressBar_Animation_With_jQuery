@@ -28,5 +28,5 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 
-# UI SneakPeak
+# UI SneakPeak ❤️ 
 ![image](https://user-images.githubusercontent.com/43011442/126272764-d3193412-a8a7-4a65-9486-45f621f968cd.png)
