@@ -10,7 +10,7 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 - percentages can be changed dynamically and customized easily
 - **[Indicates Negative Progress also - (based on the given percentage)]**
 
-# TECHNOLOGY STACKS USED 📌
+# TECHNOLOGY STACKS 📌
 
 ## Front End 📫
 
