@@ -20,7 +20,7 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
 
-# Plugins ⚡
+## Plugins ⚡
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Circle+chart-Jquery+plugin&color=DD0031&logoColor=FFFFFF&label=)
 
