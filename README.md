@@ -40,4 +40,4 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 <br>
 <div align="center">
 
-  
+# Show some ❤️ by starring this repository !!!
