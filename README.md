@@ -43,3 +43,4 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 # Show some ❤️ by starring this repository !!!
 
 </div>
+<br>
