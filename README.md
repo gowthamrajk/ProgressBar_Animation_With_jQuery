@@ -65,3 +65,4 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 
 <br>
 
+## Copyright-and-license 📌
