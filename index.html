@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Bar with percentage</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {font-family: 'Roboto'; padding:2em;}
+        .circlechart {
+            float: left;
+            padding: 20px;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+<body style="">
+    <div id="demo">
+        <center><h1 style="margin-left: auto; margin-right: auto; color: maroon; font-size: 40px;">Progress Bar with Percentage</h1></center>
+        <center><h1 style="margin-left: auto; margin-right: auto; color: darkgreen; font-size: 28px;"> - created by GowthamrajK</h1><br></center>
+      <div class="circlechart" data-percentage="-20">Progress 1</div>
+      <div class="circlechart" data-percentage="30">Progress 2</div>
+      <div class="circlechart" data-percentage="85">Progress 3</div>
+      <div class="circlechart" data-percentage="60">Progress 3</div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script>
+        $('.circlechart').circlechart(); 
+    </script>
+</body>
+</html>
