@@ -18,7 +18,10 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
 
-# Libraries ⚡
+#  ⚡
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Circle+chart+Jquery+plugin&color=DD0031&logoColor=FFFFFF&label=)
+
 
 # UI SneakPeak
 ![image](https://user-images.githubusercontent.com/43011442/126272764-d3193412-a8a7-4a65-9486-45f621f968cd.png)
