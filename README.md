@@ -44,3 +44,5 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 
 </div>
 <br>
+
+## Project Developed & Maintained By 
