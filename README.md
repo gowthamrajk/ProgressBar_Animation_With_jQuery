@@ -6,7 +6,7 @@ This is a simple jQuery animation project which demonstrates the working of a pr
 
 **🌐 Demo :  https://gowthamrajk.github.io/ProgressBar_Animation_With_jQuery/**
 
-🔭 Features :
+## 🔭 Features :
 
 - ProgressBar loads smoothly when page gets loaded 📲
 - percentages can be changed dynamically and customized easily
