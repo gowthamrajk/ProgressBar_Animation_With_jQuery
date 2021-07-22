@@ -4,6 +4,8 @@
 
 This is a simple jQuery animation project which demonstrates the working of a progress bar with percentage of progress indication
 
+**🌐 Demo :  https://gowthamrajk.github.io/ProgressBar_Animation_With_jQuery/**
+
 🔭 Features :
 
 - ProgressBar loads smoothly when page gets loaded 📲
